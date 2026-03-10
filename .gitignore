@@ -1,0 +1,14 @@
+# Bỏ qua môi trường Python
+venv/
+__pycache__/
+*.pyc
+
+# Bỏ qua thư viện Frontend
+node_modules/
+dist/
+
+# Bỏ qua Database (Tuỳ chọn: nếu bạn muốn nộp cả file DB thì xoá dòng dưới đi)
+# *.db
+
+# Bỏ qua file môi trường
+.env
